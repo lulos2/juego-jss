@@ -1,0 +1,12 @@
+#canvas{
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    border: 5px solid black;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+}
+
+.left{
+    transform: rotateY(180deg);}
